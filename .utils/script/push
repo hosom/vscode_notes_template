@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add . -v
+git commit -a -s -v -m $(date -u)
+git push -v

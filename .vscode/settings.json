@@ -1,0 +1,7 @@
+{
+    "runOnSave.commands": [{
+        "match": "{{ path_to_folder }}.md$",
+        "command": ".utils/script/push",
+        "runIn": "terminal" 
+        }]
+}
