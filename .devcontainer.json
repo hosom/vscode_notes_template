@@ -3,5 +3,5 @@
     "image": "mcr.microsoft.com/vscode/devcontainers/base",
     "workspaceFolder": "/workspaces",
     "remoteUser": "vscode",
-    "extensions": ["DavidAnson.vscode-markdownlint"]
+    "extensions": ["DavidAnson.vscode-markdownlint", "vsls-contrib.gitdoc"]
 }
