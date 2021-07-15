@@ -1,0 +1,7 @@
+{
+    "name": "vscode-notes",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base",
+    "workspaceFolder": "/workspaces",
+    "remoteUser": "vscode",
+    "extensions": ["DavidAnson.vscode-markdownlint"]
+}
